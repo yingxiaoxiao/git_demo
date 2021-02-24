@@ -8,6 +8,6 @@ package test;
 public class Test {
 
     public static void test(){
-
+        System.out.println("push触发机器人消息推送");
     }
 }
